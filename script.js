@@ -54,7 +54,7 @@ ScrollReveal().reveal('.home-content p, .about-content' , { origin:'right' });
 
 
 var typed6 = new Typed('#typed6', {
-    strings: ['Web Developer' , 'Python Developer','Fronted Developer', 'Engineer'],
+    strings: ['Web Developer','Mern Stack Developer','Fronted Developer', 'Engineer'],
    typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
@@ -62,7 +62,7 @@ var typed6 = new Typed('#typed6', {
   });
 
   var typed7 = new Typed('#typed7', {
-    strings: ['Web Developer' , 'Python Developer','Fronted Developer', 'Engineer'],
+    strings: ['Web Developer','Mern Stack Developer' ,'Fronted Developer', 'Engineer'],
    typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
